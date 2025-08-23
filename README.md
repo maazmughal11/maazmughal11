@@ -47,7 +47,7 @@
 ## 📬 Let’s Connect  
 - 💼 [LinkedIn](https://linkedin.com/in/maaz-mughal)  
 - 📧 Email: maazmughal11@hotmail.com  
-- 🌐 Portfolio Website: *coming soon*  
+
 
 ---
 
