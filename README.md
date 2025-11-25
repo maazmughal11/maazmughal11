@@ -23,15 +23,6 @@
 **Data/ETL:** Spark, Airflow, Pandas, ETL/ELT pipelines    
 **Other:** Git, Docker, Office 365, Tableau/Power BI  
 
----
-
-## 📂 Featured Projects  
-- 🔎 [Network Penetration Testing Tool](#) – Automated CVE scanning & reporting using Python + Nmap  
-- 📈 [Algorithmic Trading Advisor](#) – Trading bot with Supertrend, RSI, EMA, and risk management logic  
-- 🤖 [AI-Powered Application Assistant](#) – React + LangChain tool for automated job applications  
-- 🛒 [E-Commerce Data Pipeline](#) – Streaming data pipeline with Kafka, Spark, Airflow, AWS  
-- 📱 [Android Assist App](#) – Kotlin-based mobile app simplifying essential phone functions  
-
 
 
 ---
