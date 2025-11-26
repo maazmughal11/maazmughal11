@@ -16,12 +16,11 @@
 ---
 
 ## 🧰 Skills & Tools  
-**Languages:** Python, SQL, JavaScript, Bash, PHP  
-**Databases:** MySQL, PostgreSQL, Azure SQL  
-**Security:** Wireshark, Nmap, Vulnerability Scanning, Penetration Testing  
-**Cloud:** AWS (S3, Redshift, EC2, IAM), Google Cloud, Azure  
-**Data/ETL:** Spark, Airflow, Pandas, ETL/ELT pipelines    
-**Other:** Git, Docker, Office 365, Tableau/Power BI  
+**Languages:** C, Python, Java, R, JavaScript, TypeScript, HTML, CSS, Racket, Haskell, Prolog, PostgreSQL, Kotlin, Terraform
+**Frameworks:** React, Express, Node, React Native, Next, Vercel AI SDK, LangChain, LangGraph, Exa, CrewAI, Redis
+**Cloud:** AWS (S3, EC2, Redshift, IAM, CloudWatch), Azure, GCP
+**Security:** Wireshark, Nmap, CVE Scanning, Penetration Testing
+**Tools:** AWS, MongoDB, Supabase, Clerk, Docker, Jira, Git, Figma, Android Studio, Firebase, Linux, Agil
 
 
 
