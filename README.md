@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Maaz Mughal  
 
 🎓 **Information Technology Student (Cybersecurity Concentration)** at George Mason University  
-☁️ Certified in **CompTIA Security+**, **AWS Solutions Architect – Professional**, and **AWS DevOps Engineer – Professional**  
-💻 Passionate about **Cybersecurity, Cloud Security, AI-driven solutions, Data Engineering, and Algorithmic Trading**  
+☁️ Certified in **CompTIA Security+**, **AWS Certified Developer**
+💻 Passionate about **Cybersecurity, Cloud Security, AI-driven solutions, Data Engineering**  
 
 ---
 
@@ -16,11 +16,11 @@
 ---
 
 ## 🧰 Skills & Tools  
-**Languages:** C, Python, Java, R, JavaScript, TypeScript, HTML, CSS, Racket, Haskell, Prolog, PostgreSQL, Kotlin, Terraform
-**Frameworks:** React, Express, Node, React Native, Next, Vercel AI SDK, LangChain, LangGraph, Exa, CrewAI, Redis
-**Cloud:** AWS (S3, EC2, Redshift, IAM, CloudWatch), Azure, GCP
-**Security:** Wireshark, Nmap, CVE Scanning, Penetration Testing
-**Tools:** AWS, MongoDB, Supabase, Clerk, Docker, Jira, Git, Figma, Android Studio, Firebase, Linux, Agil
+**Languages:** Python, Java, C, SQL, JavaScript, Kotlin
+**Cloud:** AWS (S3, EC2, Redshift, IAM), Azure, GCP
+**Tools & Frameworks:** React, Node, Express, Docker, Git, Linux, Firebase
+**Security:** SIEM Monitoring, Nmap, Wireshark, CVE Scanning
+**Data Tools:** Pandas, NumPy, Power BI, PySpark, Kafka
 
 
 
