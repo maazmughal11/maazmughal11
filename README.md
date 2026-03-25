@@ -1,36 +1,30 @@
-# 👋 Hi, I’m Maaz Mughal  
+👋 Hi, I’m Maaz Mughal
 
-🎓 **Information Technology Student (Cybersecurity Concentration)** at George Mason University  
-☁️ Certified in **CompTIA Security+**, **AWS Certified Developer**
-💻 Passionate about **Cybersecurity, Cloud Security, AI-driven solutions, Data Engineering**  
+🎓 Information Technology student at George Mason University (Graduating May 2026)
+💼 IT Systems Analyst with experience in Microsoft 365, Azure AD, and IT Operations
+☁️ Interested in Cloud Support, IT Systems, and Project Coordination roles
 
----
+🚀 About Me
+⚙️ Experience supporting enterprise systems, user access management, and IT operations workflows
+🔐 Hands-on exposure to identity & access management (Azure AD), security monitoring, and incident response concepts
+📊 Skilled in analyzing system data, troubleshooting issues, and improving operational efficiency
+☁️ Building projects focused on cloud systems, automation, and business process optimization
+🤝 Strong interest in project coordination and cross-functional collaboration in IT environments
+🧰 Skills & Tools
 
-## 🚀 About Me  
-- 🔐 Exploring **network security, penetration testing, and cloud security**  
-- ⚡ Building **data pipelines and automation tools** with Python, SQL, and Spark  
-- 🤖 Experimenting with **AI-powered applications** (LangChain, chatbots, analytics)  
-- 📊 Interested in **real-time data engineering pipelines** (Kafka, Spark, Airflow, AWS)  
-- 🛠 Always learning & sharing my journey through projects on GitHub  
+Systems & Cloud:
+Microsoft 365, Azure AD (Entra ID), AWS (S3, EC2, IAM), Cloud Fundamentals
 
----
+IT Operations & Tools:
+ServiceNow, Jira, ITSM Workflows, Incident Management, System Monitoring
 
-## 🧰 Skills & Tools  
-**Languages:** Python, Java, C, SQL, JavaScript, Kotlin
-**Cloud:** AWS (S3, EC2, Redshift, IAM), Azure, GCP
-**Tools & Frameworks:** React, Node, Express, Docker, Git, Linux, Firebase
-**Security:** SIEM Monitoring, Nmap, Wireshark, CVE Scanning
-**Data Tools:** Pandas, NumPy, Power BI, PySpark, Kafka
+Technical Skills:
+Python, SQL, Data Analysis, Troubleshooting, Root Cause Analysis
 
-
-
----
-
-## 📬 Let’s Connect  
-- 💼 [LinkedIn](https://linkedin.com/in/maaz-mughal)  
-- 📧 Email: maazmughal11@hotmail.com  
+Security (Foundational):
+SIEM Monitoring, Log Analysis, Access Control (RBAC), Vulnerability Management
 
 
----
-
-⭐️ *Thanks for visiting my GitHub! Check out my pinned repos below to see my latest work in Cybersecurity, Cloud, Data Engineering, and Algorithmic Trading.*  
+📬 Let’s Connect
+💼 LinkedIn
+📧 Email: maazmughal11@hotmail.com
