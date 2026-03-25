@@ -27,4 +27,4 @@ SIEM Monitoring, Log Analysis, Access Control (RBAC), Vulnerability Management
 
 📬 Let’s Connect
 💼 LinkedIn
-📧 Email: maazmughal11@hotmail.com
+📧 Email: maaz049@hotmail.com
